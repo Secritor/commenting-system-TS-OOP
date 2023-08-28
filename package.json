@@ -1,0 +1,16 @@
+{
+  "name": "commenting_system_tp_oop",
+  "version": "1.0.0",
+  "description": "commenting system ",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "dependencies": {
+    "typescript": "^5.0.4"
+  },
+  "devDependencies": {}
+}
